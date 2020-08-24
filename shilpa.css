@@ -32,7 +32,8 @@ section{
    margin-left:70%;
    margin-bottom:0;
    margin-top:0;
-   background-color:#FF0050
+   background-color:black;
+   font-color:white;
 }  
 #f2{border:1px solid black;
     text-align:center;
@@ -42,7 +43,9 @@ section{
    margin-bottom:0;
    margin-top:0;
    margin-left:70%;
-   background-color:#FF7F50
+   background-color:black;
+   font-color:white;
+   
 }  
 #f3{border:1px solid black;
     text-align:center;
@@ -52,7 +55,9 @@ section{
    margin-bottom:0;
    margin-top:0;
    margin-left:70%;
-   background-color:#FFFF00;
+   background-color:black;
+   font-color:white;
+   
 }  
 .row{
     width:100%;
